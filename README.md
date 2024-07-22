@@ -6,9 +6,16 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
+# 🌟 Bienvenida al Mundo Mágico de Python ✨🐍
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+¡Hola, querida AnAriGonzalez! ✨ Bienvenida al viaje hacia el dominio de Python en el programa AWS Restart. Aquí encontrarás una serie de ejercicios que te ayudarán a fortalecer tus habilidades en la programación. 🚀
 
-Happy coding!
+Prepárate para adentrarte en el fascinante universo de la codificación con estos desafíos diseñados para desbloquear tu potencial mágico. 🌌
+Este repositorio está organizado por sesiones, cada una con su conjunto de ejercicios y ejemplos correspondientes. Para empezar a utilizarlo, clone este repositorio en su entorno Cloud9:
+## ¡Empieza tu Aventura! ✨🌟
+
+Estos ejercicios te ayudarán a ganar confianza y habilidad en Python mientras te sumerges en el programa AWS Restart. Recuerda, cada línea de código te acerca un paso más hacia tus objetivos mágicos. ✨
+
+¡Diviértete explorando y aprendiendo! Si necesitas ayuda o tienes alguna pregunta, no dudes en preguntar. Estoy aquí para apoyarte en tu viaje hacia la maestría en la programación. 🌟
+ /\_/\  
+( o.o ) 
